@@ -2,7 +2,7 @@ import React from "react";
 import data from "../../data";
 import Icon from "../../components/icon/icon";
 import "./styles/styles.css";
-import "./styles/mobile-styles.css";
+import "./styles/mobile-styles.scss";
 
 const Contact = () => {
   const mapContactMethods = () =>
